@@ -4,4 +4,4 @@
 
 <p>An example choropleth (same choropleth as in notebook), for the total number of summonses given in each NYC precinct for "Stopping, standing or parking within a marked bicycle lane" in 2014 and 2015.:</p>
 
-<img src="bikesummons.png">
+<img src="bike_summons_choropleth.png">
