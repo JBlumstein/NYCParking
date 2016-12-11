@@ -1,4 +1,4 @@
-<h1>NYC Parking Tickets Choropleths Example</h1>
+<h1>Making Chloropleths from NYC Parking Tickets Data</h1>
 
 <p>From June 2013-September 2016, more than 30M parking summons were issued in New York City. In the <a href="https://github.com/JBlumstein/NYCParking/blob/master/NYC_Parking_Violations_Mapping_Example.ipynb">jupyter notebook</a> in this repo, I show how to create maps of this data, using data from the NYC Open Data portal (hosted by Socrata), Pandas, and Folium.
 
